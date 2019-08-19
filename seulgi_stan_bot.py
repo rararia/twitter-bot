@@ -43,7 +43,7 @@ def reply_to_tweets():
             print('Found Seulgi!', flush=True)
             print('Responding back...', flush=True)
             api.update_status('@' + mention.user.screen_name +
-                    'Stan Seulgi of RED VELVET!', mention.id)
+                    'Stan Seulgi, the center of RED VELVET!', mention.id)
 
 while True:
     reply_to_tweets()

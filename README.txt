@@ -1,0 +1,1 @@
+This is a Seulgi stan twitter bot.

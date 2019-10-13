@@ -2,10 +2,10 @@ import tweepy
 
 #print("This is a Seulgi stan bot")
 
-CONSUMER_KEY = 'amg50ancDLUmwoj9TRgIwQoyq'
-CONSUMER_SECRET = 'XhDp9LHIKlqQlz6Cd7fLCYlDkHlWSle9VfJjQmWAv1oidmSdLu'
-ACCESS_KEY = '1024527149162586112-8b8ZSmlhLtiBbvz5Mj0qt833pu6DSD'
-ACCESS_SECRET = '4C6nSVaQ81Mf29PN7Tx6rTJamwekQWtlgg9DwtauESfwg'
+CONSUMER_KEY = 'redacted'
+CONSUMER_SECRET = 'redacted'
+ACCESS_KEY = 'redacted'
+ACCESS_SECRET = 'redacted'
 
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
